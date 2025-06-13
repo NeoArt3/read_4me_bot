@@ -1,0 +1,1 @@
+API_TOKEN = '7823847462:AAE_PVqL4bqcnyT85RMb2RJkq_5CGO2LKmE'  # Replace with your Telegram Bot Token
